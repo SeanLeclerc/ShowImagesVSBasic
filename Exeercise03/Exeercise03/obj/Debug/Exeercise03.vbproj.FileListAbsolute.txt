@@ -1,0 +1,12 @@
+C:\Users\Sean's PC\Desktop\Exeercise03\Exeercise03\bin\Debug\Exeercise03.exe.config
+C:\Users\Sean's PC\Desktop\Exeercise03\Exeercise03\bin\Debug\Exeercise03.exe
+C:\Users\Sean's PC\Desktop\Exeercise03\Exeercise03\bin\Debug\Exeercise03.pdb
+C:\Users\Sean's PC\Desktop\Exeercise03\Exeercise03\bin\Debug\Exeercise03.xml
+C:\Users\Sean's PC\Desktop\Exeercise03\Exeercise03\obj\Debug\Exeercise03.vbprojResolveAssemblyReference.cache
+C:\Users\Sean's PC\Desktop\Exeercise03\Exeercise03\obj\Debug\Exeercise03.Form1.resources
+C:\Users\Sean's PC\Desktop\Exeercise03\Exeercise03\obj\Debug\Exeercise03.Resources.resources
+C:\Users\Sean's PC\Desktop\Exeercise03\Exeercise03\obj\Debug\Exeercise03.vbproj.GenerateResource.Cache
+C:\Users\Sean's PC\Desktop\Exeercise03\Exeercise03\obj\Debug\Exeercise03.vbproj.CoreCompileInputs.cache
+C:\Users\Sean's PC\Desktop\Exeercise03\Exeercise03\obj\Debug\Exeercise03.exe
+C:\Users\Sean's PC\Desktop\Exeercise03\Exeercise03\obj\Debug\Exeercise03.xml
+C:\Users\Sean's PC\Desktop\Exeercise03\Exeercise03\obj\Debug\Exeercise03.pdb
